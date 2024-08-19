@@ -317,7 +317,7 @@ However, if your conditional statements are complicated, then using an `if...els
 
 <div class="lesson-content__panel" markdown="1">
 
-1. For more depth, read the [Flow Control](https://launchschool.com/books/ruby/read/flow_control#conditionals) chapter from LaunchSchool's *Introduction to Programming With Ruby*.
+1. For more depth, read the [Flow Control](https://launchschool.com/books/ruby/read/flow_control#conditionals) chapter from LaunchSchool's _Introduction to Programming With Ruby_.
 1. For an overview of flow control, read through this [Ruby Explained: Conditionals and Flow Control](https://www.eriktrautman.com/posts/ruby-explained-conditionals-and-flow-control) article.
 
 </div>
@@ -343,4 +343,3 @@ This section contains helpful links to related content. It isn't required, so co
 
 - See this [Stack Overflow post for more on the spaceship operator](https://stackoverflow.com/questions/827649/what-is-the-ruby-spaceship-operator).
 - For more depth on flow control, read [Zetcode's Flow Control section](http://zetcode.com/lang/rubytutorial/flowcontrol/).
-- If you want some in-depth practice with these concepts, go through [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) from Exercise 27 through Exercise 31.
